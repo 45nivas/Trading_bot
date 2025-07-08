@@ -39,13 +39,4 @@ However, I’ve built the full trading bot with proper structure, input handling
 
 API integration functions are written exactly as per Binance documentation, and the bot can be activated instantly once testnet keys are available.
 Please find the complete code and logs in the attached GitHub repository.
-
-## Disclaimer
-- This bot is for educational and demonstration purposes only.
-- Use only with Binance Testnet API keys.
-- Do not use with real funds.
-
 ---
-
-**Author:** [Your Name]
-**Date:** July 2025
